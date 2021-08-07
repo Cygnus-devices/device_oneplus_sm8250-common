@@ -16,6 +16,8 @@
 
 BUILD_BROKEN_DUP_RULES := true
 
+BUILD_BROKEN_USES_BUILD_COPY_HEADERS := true
+
 BOARD_VENDOR := oneplus
 
 COMMON_PATH := device/oneplus/sm8250-common
